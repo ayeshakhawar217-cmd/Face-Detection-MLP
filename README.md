@@ -4,6 +4,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-1.24-013243?logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 This project implements a fully connected Multi-Layer Perceptron (MLP) built entirely from scratch using NumPy to classify grayscale images into two classes: face and non-face. No deep learning libraries such as TensorFlow or PyTorch are used. The model includes manual implementation of forward propagation, backpropagation, and gradient descent to demonstrate the core mechanics of neural networks.
 
