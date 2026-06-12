@@ -1,0 +1,42 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dataset files (avoid pushing large data)
+dataset/
+face_images/
+*.zip
+*.tar
+*.gz
+
+# Model outputs (optional)
+*.h5
+*.pkl
+*.model
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+.cache/
